@@ -16,8 +16,14 @@
       "id": 1,
       "username": "dewaldels",
       "translations": [
-        "hello world",
-        "react is fun"
+        {
+          "translation": "hello world",
+          "deleted": false
+        },
+        {
+          "translation": "react is fun",
+          "deleted": false
+        }
       ]
     }
   ],
