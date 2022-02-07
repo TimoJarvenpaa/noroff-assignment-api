@@ -33,12 +33,12 @@
       "username": "ash",
       "pokemon": [
         {
-          "name": "bulbasaur",
+          "name": "Bulbasaur",
           "url": "https://pokeapi.co/api/v2/pokemon/1/",
           "id": "1"
         },
         {
-          "name": "pikachu",
+          "name": "Pikachu",
           "url": "https://pokeapi.co/api/v2/pokemon/25/",
           "id": "25"
         }
